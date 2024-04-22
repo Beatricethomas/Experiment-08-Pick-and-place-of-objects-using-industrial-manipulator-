@@ -79,7 +79,6 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
 
 
 
@@ -89,27 +88,38 @@ and click on the connect icon
 
 
 
+## OUTPUT :
+
+![WhatsApp Image 2024-04-22 at 13 36 18_6d2de411](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/b5818854-5bb5-4838-baac-d6a30b09c35f)
 
 
+![WhatsApp Image 2024-04-22 at 13 36 19_8fea2604](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/2d462ecb-bc85-4022-a1e6-45b1e7e290cf)
 
 
+![WhatsApp Image 2024-04-22 at 13 36 19_b2d57b1e](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/675d5a9d-2be5-48d1-b290-63f0f531c8c8)
 
 
+![WhatsApp Image 2024-04-22 at 13 36 20_8a25424e](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/35ce9e5a-949f-41d9-b3da-b82912964061)
 
 
+![WhatsApp Image 2024-04-22 at 13 36 21_6491f0cc](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/c2e43776-2703-49e2-aca6-82e7ed6e8e0b)
 
-### output video and screen shots of pick and place 
+![WhatsApp Image 2024-04-22 at 13 36 21_bf6cbdc5](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/9c0c281f-4ffb-44bb-9965-a5f7b312bae2)
 
 
+![WhatsApp Image 2024-04-22 at 13 36 23_9e4fece1](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/41f8176a-f810-4bd3-9483-dbf5827ef110)
 
 
+![WhatsApp Image 2024-04-22 at 13 36 24_f8eb6aae](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/15bca361-7b32-40f2-82ad-a55dece01408)
+
+
+https://drive.google.com/file/d/1wkgGJFWM_AwVEwtYdAWYTRsjMImnynpm/view?usp=sharing
 
 
 
 ### Results: 
 
-
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
