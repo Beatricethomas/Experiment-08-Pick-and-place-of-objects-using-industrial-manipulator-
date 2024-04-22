@@ -81,6 +81,16 @@ and click on the connect icon
 
 3. click on the 
 
+![WhatsApp Image 2024-04-22 at 13 36 22_1fc50e75](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/88b6fd0f-f637-46ba-8be7-dccb237a404a)
+
+
+
+![WhatsApp Image 2024-04-22 at 13 36 23_fddb5ad6](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/f0584cda-7fa4-4a7e-99dc-2ccf1ed94433)
+
+
+
+
+![WhatsApp Image 2024-04-22 at 13 36 24_1c31f42b](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/55152e70-a5fd-4295-8eaf-78a474f8f83a)
 
 
 
@@ -89,26 +99,24 @@ and click on the connect icon
 
 
 
+## OUTPUT :
+
+![WhatsApp Image 2024-04-22 at 13 36 18_b1ea8639](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/2c5ac62b-ddfd-46be-ac5c-590de42fb1f0)
 
 
 
+![WhatsApp Image 2024-04-22 at 13 36 19_808b56e8](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/c83366fb-a7d1-40f6-8c94-6e7640a463de) 
 
 
+![WhatsApp Image 2024-04-22 at 13 36 20_c9edb26b](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/4383cac5-0c5d-4b5b-a3cb-6b7ca49df9a2)
 
 
-
-
-### output video and screen shots of pick and place 
-
-
-
-
-
+![WhatsApp Image 2024-04-22 at 13 36 21_f92230e7](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/d53d5d4d-e89b-408e-9156-3347b2bfd388)
 
 
 ### Results: 
 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
