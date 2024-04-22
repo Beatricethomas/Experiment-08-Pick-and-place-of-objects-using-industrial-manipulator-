@@ -113,6 +113,8 @@ and click on the connect icon
 
 ![WhatsApp Image 2024-04-22 at 13 36 21_f92230e7](https://github.com/Beatricethomas/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140035214/d53d5d4d-e89b-408e-9156-3347b2bfd388)
 
+## OUTPUT VIDEO: 
+https://drive.google.com/file/d/1wkgGJFWM_AwVEwtYdAWYTRsjMImnynpm/view?usp=drive_link
 
 ### Results: 
 
